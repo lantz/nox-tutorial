@@ -1,6 +1,6 @@
 include ../../../Make.vars 
 
-SUBDIRS = t
+SUBDIRS = tutorial t
 
 EXTRA_DIST =\
 	meta.json\
